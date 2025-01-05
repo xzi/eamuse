@@ -7,6 +7,12 @@ body {
     margin-right: 5%;
 }
 
+hr {
+    color: #585b70;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
 /* 
 <uniquifier>: Use a unique and descriptive class name
 <weight>: Use a value from 400 to 700
@@ -48,10 +54,4 @@ body {
     position: relative;
     top: 3px;
     left: 10px;
-}
-
-.lines {
-    color: #585b70;
-    margin-top: 20px;
-    margin-bottom: 20px
 }
